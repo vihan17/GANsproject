@@ -1,7 +1,6 @@
-# Enhancing X-ray Images to Resemble MRI or CT Scans![image](https://github.com/vihan17/GANsproject/assets/91966446/5b0e3ea2-6ee2-4132-b111-e8d4d92480e1)
+# Enhancing X-ray Images to Resemble MRI or CT Scans
 Medical imaging plays a crucial role in diagnosing and monitoring various health conditions. X-ray imaging is one of the most widely used modalities due to its accessibility and ability to provide valuable insights into skeletal structures and certain soft tissues. However, compared to more advanced modalities like MRI (Magnetic Resonance Imaging) and CT (Computed Tomography) scans, X-ray images often lack the clarity and detail necessary for accurate diagnosis, particularly in the visualization of soft tissues and organs.
 In this project, we aim to bridge the gap between X-ray imaging and MRI/CT scan imaging by enhancing X-ray images to resemble MRI or CT scan-like images using image enhancement techniques. By improving the quality and visibility of structures in X-ray images, we hope to provide medical professionals with enhanced diagnostic tools that can aid in more accurate and reliable diagnoses.
-![image](https://github.com/vihan17/GANsproject/assets/91966446/6b9cc6cd-aba3-4312-92a2-320ef53b2cda)
 
 
 ## How does CycleGAN work
