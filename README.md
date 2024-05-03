@@ -11,6 +11,8 @@ A crucial aspect of CycleGAN is its cycle consistency mechanism, which enables b
 During training, both generators and discriminators are trained simultaneously. The generators aim to minimize a combined loss, consisting of both adversarial loss (which encourages realistic translation) and cycle consistency loss (which enforces consistency in both directions). On the other hand, the discriminators aim to maximize this combined loss, effectively distinguishing real from fake images while also penalizing inconsistencies in the translations.
 
 In practice, during inference, input images from the source domain are fed into the appropriate generator, whether it's translating X-ray images to MRI scans or vice versa. The result is a set of translated images in the target domain, opening up possibilities for various applications in medical imaging, artistic style transfer, and more.
+![image](https://github.com/vihan17/GANsproject/assets/91966446/fec55559-272f-465c-ac1b-c7daea754117)
+
 
 ## Getting Started
 
@@ -29,9 +31,6 @@ In practice, during inference, input images from the source domain are fed into 
 - Start a **Jupyter server** within your Python environment by executing a command: `jupyter notebook`. Make sure that this command is executed relative to the project directory, so the project's script can be imported with no changes to the code.
 - Check the log of a Jupyter server in the console. There should be a server's address. Use it to interact with the server.
 - Open notebook on the server and run all cells. The example should run as it is (it will automatically download the data set for you)
-
-### Apply CycleGAN on your use-case
-
 
 ## Resources
 
