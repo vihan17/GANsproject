@@ -32,6 +32,11 @@ In practice, during inference, input images from the source domain are fed into 
 - Check the log of a Jupyter server in the console. There should be a server's address. Use it to interact with the server.
 - Open notebook on the server and run all cells. The example should run as it is (it will automatically download the data set for you)
 
+### Sample XRay images
+
+![image](https://github.com/vihan17/GANsproject/assets/91966446/fd82d0f1-3b4d-4c3b-b2ee-044acf71b033)
+
+
 ### Results After Image Enhancement
 Histogram Equalisation
 ![image](https://github.com/vihan17/GANsproject/assets/91966446/5ed5c9c7-914b-44a5-859c-cc2aa13d958c)
@@ -39,6 +44,9 @@ Histogram Equalisation
 Adaptive Histogram Equalisation
 ![image](https://github.com/vihan17/GANsproject/assets/91966446/bce75a91-df13-4635-8b94-be75b7d0063e)
 
+### Final Results
+
+![image](https://github.com/vihan17/GANsproject/assets/91966446/2395f1a2-3685-4cf7-bee6-8a72b9441d90)
 
 
 ## Resources
