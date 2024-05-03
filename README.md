@@ -48,7 +48,6 @@ Deep Learning Approach: Investigate the use of deep learning models like GANs, c
 - Open notebook on the server and run all cells. The example should run as it is (it will automatically download the data set for you)
 
 ### Sample XRay images
-
 ![image](https://github.com/vihan17/GANsproject/assets/91966446/fd82d0f1-3b4d-4c3b-b2ee-044acf71b033)
 
 
@@ -60,11 +59,14 @@ Adaptive Histogram Equalisation
 ![image](https://github.com/vihan17/GANsproject/assets/91966446/bce75a91-df13-4635-8b94-be75b7d0063e)
 
 ### Final Results
-
 ![image](https://github.com/vihan17/GANsproject/assets/91966446/2395f1a2-3685-4cf7-bee6-8a72b9441d90)
 
 
 ## Resources
+
+## Dataset
+https://www.shaip.com/offerings/x-ray-images-datasets/
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ### References
 - https://medium.com/analytics-vidhya/transforming-the-world-into-paintings-with-cyclegan-6748c0b85632
