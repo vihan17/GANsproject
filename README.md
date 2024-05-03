@@ -14,6 +14,21 @@ In practice, during inference, input images from the source domain are fed into 
 ![image](https://github.com/vihan17/GANsproject/assets/91966446/fec55559-272f-465c-ac1b-c7daea754117)
 
 
+## Work Flow
+
+Data Collection: Start by collecting a diverse dataset comprising X-ray images, MRI scans, and CT scans from medical databases and institutions. Ensure the dataset encompasses a wide range of anatomical regions and medical conditions to capture real-world variability.
+
+Data Preprocessing: Standardize the dataset by normalizing pixel values, resizing images, and performing data augmentation techniques like rotation and flipping to enhance dataset diversity and uniformity.
+
+Image Enhancement Techniques:Experiment with various enhancement methods such as histogram equalization, adaptive histogram equalization, denoising algorithms, and edge enhancement techniques. Explore combinations of these techniques to optimize image quality and clarity.
+
+Deep Learning Approach: Investigate the use of deep learning models like GANs, cGANs, and CNNs to learn the mapping between X-ray images and MRI/CT scan-like images. Train the models on the preprocessed dataset using suitable loss functions and optimization techniques.
+
+![image](https://github.com/vihan17/GANsproject/assets/91966446/0d2cf8da-777e-428c-837f-4b6561c34313)
+
+
+
+
 ## Getting Started
 
 ### Prerequisites
